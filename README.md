@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open source and Frontend projects**
 
-- 👨‍💻 All of my projects are available at [vishalkumargeed.in](vishalkumargeed.in)
+- 👨‍💻 All of my projects are available at [github repo]([vishalkumargeed.in](https://github.com/Vishal-K-988?tab=repositories))
 
 - 💬 Ask me about **React, K8s, AWS**
 
