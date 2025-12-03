@@ -1,78 +1,96 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar Geed</h1>
-<h3 align="center">Frontend Developer | Cloud Enthusiast | Open Source Contributor</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishal-k-988&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<h3 align="center">Full Stack Developer | AI & Cloud Enthusiast | Open Source Contributor</h3>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 Currently building **an AI-powered Presentation Builder**
-- 🤝 Open to collaborating on **frontend projects** and **open source contributions**
-- 🌱 Exploring **cloud technologies**, **DevOps**, and **AI integration in UI**
-- 💬 Ask me about **React**, **Kubernetes**, **AWS**, or anything frontend!
+I’m a full-stack engineer passionate about building **AI-powered, performant, and user-centric applications**.  
+I love working at the intersection of **frontend engineering**, **cloud systems**, and **AI workflows**, and I actively contribute to open-source projects like **Node.js Core** and the **Brie Chrome extension** :contentReference[oaicite:1]{index=1}.
+
+- 🔭 Currently building **AI-driven productivity tools** (Presentations, Image Editing, PDF AI Agents)
+- 🤝 Open to collaborating on **AI apps, frontend engineering**, and **open-source projects**
+- 🌱 Exploring **cloud infrastructure, system design, AI integrations, and DevOps**
+- 💬 Ask me about **React, Next.js, Node.js, Convex, AWS, LangChain & LLM workflows**
 - 📫 Reach me at **vishalkumargeed@gmail.com**
-- 🧑‍💻 Check out my work on [GitHub](https://github.com/Vishal-K-988?tab=repositories)
+- 🧑‍💻 Explore all my work → [GitHub Profile](https://github.com/Vishal-K-988)
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="mailto:vishalkumargeed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vishalkumargeed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <!-- Add more badges here as needed -->
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend:**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+  <a href="mailto:vishalkumargeed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vishalkumargeed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/vishalctx" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
-**Backend & Tools:**
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
 </p>
 
-**Cloud & DevOps:**
+### **Backend & Databases**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" />
+</p>
+
+### **Cloud, DevOps & AI**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📌 Highlighted Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-K-988&show_icons=true&theme=radical" alt="Vishal's GitHub stats" />
-</p>
+Here are some of my key real-world shipped projects (also in my resume) :contentReference[oaicite:2]{index=2}:
 
----
-
-### ✨ Fun Fact
-
-> I believe in **"Building useful, clean, and performant user experiences."**  
-> Whether it's designing a frontend or setting up infra, I aim for clarity and simplicity.
+### **🖼 ApexEdit – AI Image Editing Platform**
+*Next.js • AWS S3 • OAuth • Gemini LLMs*  
+AI-native image editor with real-time previews, S3 uploads, and smart edit suggestions (improved success rate by **40%**).
 
 ---
 
+### 🎬 **Captify – AI Video Caption Generator**
+*Next.js • Remotion • AssemblyAI • AWS*  
+End-to-end captioning with MP4 export, Hinglish support, and 92% accurate transcription.
+
+---
+
+### 📄 **AxiomDocs – AI PDF Chat Platform**
+*React • TypeScript • LangChain • Gemini • FAISS • SQLite*  
+Built multi-document PDF chatbot with semantic search, async pipelines, and **2× faster** query latency.
+
+---
+
+### 🧾 **WorkSuit – Freelancer Client Portal**
+*Convex • Stripe • AWS S3 • OAuth*  
+Real-time messaging, file storage, payments & contract flows.
+
+---
+
+## ✨ Fun Fact
+
+> I love building tools that make people **faster, smarter, and more productive**.  
+> Clean UI, scalable systems, and AI-augmented workflows — that’s my zone.
+
+---
